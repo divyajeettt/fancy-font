@@ -20,6 +20,11 @@ Some Unicode fonts do not support lowercase characters, while some other fonts d
 ## Run
 
 To use, clone the repository on your device, navigate to the folder. Make the following edits to main.py:
+- On Line 26, set `STRING` to your desired text
+- On Line 29, set `font_numbers` to a set containing the font-numbers of your desired fonts
+- To check what font corresponds to what number, look up the dictionary `STYLE` defined on Line 31
+
+Execute:
 
 ```
 python3 main.py
