@@ -1,2 +1,2 @@
 # fancy-font
-A command-line based project. It's a Unicode font converter.
+A command-line based project. A simple Unicode font converter.
