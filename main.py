@@ -23,10 +23,10 @@ fonts = [
 # [print(f"Enter {i+1}. for {fonts[i]}") for i in range(len(fonts))]
 
 # initialize a string containing the text
-string = ""
+STRING = "Sphinx of black quartz, judge my vow."
 
 # add choice of fonts in the set of font_numbers
-font_numbers = {}
+font_numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}
 
 STYLE = {
     1: [
@@ -160,4 +160,4 @@ def convert(string, num):
 
 for ch in font_numbers:
     print(f"{ch} -> Font Selected: {fonts[ch-1]}")
-    print(convert(string, ch) , "\n")
+    print(convert(STRING, ch) , "\n")
