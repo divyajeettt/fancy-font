@@ -20,9 +20,9 @@ Some Unicode fonts do not support lowercase characters, while some other fonts d
 ## Run
 
 To use, clone the repository on your device, navigate to the folder. Make the following edits to main.py:
-- On Line 26, set `STRING` to your desired text
-- On Line 29, set `font_numbers` to a set containing the font-numbers of your desired fonts
-- To check what font corresponds to what number, look up the dictionary `STYLE` defined on Line 31
+- On [Line 26](https://github.com/divyajeettt/fancy-font/blob/37282ac4336622066197b8a5d59656ec160e7f8a/main.py#L26), set `STRING` to your desired text
+- On [Line 29](https://github.com/divyajeettt/fancy-font/blob/37282ac4336622066197b8a5d59656ec160e7f8a/main.py#L29), set `font_numbers` to a set containing the font-numbers of your desired fonts
+- To check what font corresponds to what number, look up the dictionary `STYLE` defined on [Line 31](https://github.com/divyajeettt/fancy-font/blob/37282ac4336622066197b8a5d59656ec160e7f8a/main.py#L31)
 
 Execute:
 
