@@ -2,7 +2,8 @@
 
 ## About fancy-font
 
-fancy-font is a simple command-line based project that converts text into different Unicode fonts. \
+fancy-font is a simple command-line based project that converts text into different Unicode fonts.
+
 *Date of creation:* `September 17, 2019`
 
 Some examples of the fonts are given below:
