@@ -16,7 +16,7 @@ Some examples of the fonts are given below:
 
 ## Footnotes
 
-Some Unicode fonts do not support lowercase characters, while some other fonts do not support ascii digits. Such characters <b>are not</b> mapped to the font style being used.
+Some Unicode fonts do not support lowercase characters, while some other fonts do not support ascii digits. Such characters **are not** mapped to the font style being used.
 
 ## Run
 
